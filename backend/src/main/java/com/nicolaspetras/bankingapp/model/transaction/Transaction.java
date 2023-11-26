@@ -6,5 +6,5 @@ public class Transaction {
     private TransactionCategory category;
     private Direction direction;
     private LocalDateTime dateTime;
-    private CurrencyAndAmount;
+    private CurrencyAndAmount currencyAndAmount;
 }
